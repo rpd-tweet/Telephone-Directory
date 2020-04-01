@@ -1,0 +1,7 @@
+INSERT INTO [dbo].[Table] ([FirstName], [LastName], [ContactNumber], [email], [Location]) VALUES (N'', N'', N'', N'', N'')
+INSERT INTO [dbo].[Table] ([FirstName], [LastName], [ContactNumber], [email], [Location]) VALUES (N'kavya', N'S', N'9790463199', N'Kav99@gmail.com', N'Kvp')
+INSERT INTO [dbo].[Table] ([FirstName], [LastName], [ContactNumber], [email], [Location]) VALUES (N'Nikhil', N'S', N'97846896525', N'sng@gmail.com', N'Tvl')
+INSERT INTO [dbo].[Table] ([FirstName], [LastName], [ContactNumber], [email], [Location]) VALUES (N'Nivin', N'H', N'8794561230', N'nivin@gmail.com', N'Tvl')
+INSERT INTO [dbo].[Table] ([FirstName], [LastName], [ContactNumber], [email], [Location]) VALUES (N'Pratheepa', N'Selva', N'4569875136', N'ps@gmail.com', N'Dubai')
+INSERT INTO [dbo].[Table] ([FirstName], [LastName], [ContactNumber], [email], [Location]) VALUES (N'Roomie', N'P', N'9876654321', N'ps@gmail.com', N'Mdu')
+INSERT INTO [dbo].[Table] ([FirstName], [LastName], [ContactNumber], [email], [Location]) VALUES (N'Santhosh', N'N', N'8845698745', N'santhosh@gmail.com', N'Tuti')

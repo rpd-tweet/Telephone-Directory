@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\vs\Telephone Directory\Telephone Directory\bin\Debug\Telephone Directory.exe.config
+C:\Users\DELL\Documents\vs\Telephone Directory\Telephone Directory\bin\Debug\Telephone Directory.exe
+C:\Users\DELL\Documents\vs\Telephone Directory\Telephone Directory\bin\Debug\Telephone Directory.pdb
+C:\Users\DELL\Documents\vs\Telephone Directory\Telephone Directory\obj\Debug\Telephone Directory.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\vs\Telephone Directory\Telephone Directory\obj\Debug\Telephone_Directory.Form1.resources
+C:\Users\DELL\Documents\vs\Telephone Directory\Telephone Directory\obj\Debug\Telephone_Directory.Properties.Resources.resources
+C:\Users\DELL\Documents\vs\Telephone Directory\Telephone Directory\obj\Debug\Telephone Directory.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\vs\Telephone Directory\Telephone Directory\obj\Debug\Telephone Directory.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\vs\Telephone Directory\Telephone Directory\obj\Debug\Telephone Directory.exe
+C:\Users\DELL\Documents\vs\Telephone Directory\Telephone Directory\obj\Debug\Telephone Directory.pdb
+C:\Users\DELL\Documents\vs\Telephone Directory\Telephone Directory\obj\Debug\Telephone_Directory.Form2.resources
+C:\Users\DELL\Documents\vs\Telephone Directory\Telephone Directory\obj\Debug\Telephone_Directory.Form4.resources
+C:\Users\DELL\Documents\vs\Telephone Directory\Telephone Directory\obj\Debug\Telephone_Directory.Form5.resources
+C:\Users\DELL\Documents\vs\Telephone Directory\Telephone Directory\obj\Debug\Telephone_Directory.Form3.resources
+C:\Users\DELL\Documents\vs\Telephone Directory\Telephone Directory\obj\Debug\Telephone_Directory.Form6.resources
