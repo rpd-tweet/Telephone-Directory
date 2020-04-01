@@ -38,5 +38,9 @@ https://docs.microsoft.com/en-us/visualstudio/install/troubleshooting-installati
 ```
 ### Deployment
   For deploying this work, open this in VS. Make sure you have created your DB and it is connected for sure. 
- 
+### Acknowledgments
+* Template source
+```
+https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
+```
  **That's it**
