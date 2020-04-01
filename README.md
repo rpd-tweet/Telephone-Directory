@@ -7,13 +7,13 @@
   https://visualstudio.microsoft.com/downloads/
   ```
  ### Installing
- 1.Make sure your computer is ready for Visual Studio
+ *  Make sure your computer is ready for Visual Studio
     check for system requirements
  ```
  https://docs.microsoft.com/en-us/visualstudio/releases/2019/system-requirements
  ```
- 2.Download Visual Studio
- 3.Install the Visual Studio installer
+ *  Download Visual Studio
+ *  Install the Visual Studio installer
  ```
   vs_community.exe for Visual Studio Community
   vs_professional.exe for Visual Studio Professional
@@ -21,11 +21,11 @@
   
   Accept the terms and privacy and continue
 ```
-4.Choose workloads
+* Choose workloads
 ```
 choose ASP.NET and web development for this need
 ```
-5.Start developing
+* Start developing
 ```
 Create new project
 VS is ready now...you are ready to code
@@ -38,4 +38,4 @@ https://docs.microsoft.com/en-us/visualstudio/install/troubleshooting-installati
 ### Deployment
   For deploying this work, open this in VS. Make sure you have created your DB and it is connected for sure. 
  
- * **That's it**
+ **That's it**
