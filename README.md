@@ -27,8 +27,9 @@ choose ASP.NET and web development for this need
 ```
 * Start developing
 ```
-Create new project
-VS is ready now...you are ready to code
+* Create new project
+* VS is ready now
+* You are ready to code
 ```
 If any of these steps fails,
 ```
